@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a ServiceNow developer
-- 🌱 I’m currently learning fullstack development
+- 🌱 I’m currently learning full stack development
 ##
 
 <h2>GitHub Stats:</h2>
